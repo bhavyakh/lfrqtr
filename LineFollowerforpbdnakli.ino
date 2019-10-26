@@ -1,6 +1,6 @@
 #include <QTRSensors.h>
 
-#define MaxSpeed 255// max speed of the robot
+#define MaxSpeed 255
 #define BaseSpeed 200
 
 #define NUM_SENSORS             8  
